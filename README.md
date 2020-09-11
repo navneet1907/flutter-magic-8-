@@ -1,2 +1,2 @@
-# flutter-magic-8-
+# flutter-magic-8
 Basic flutter app 
